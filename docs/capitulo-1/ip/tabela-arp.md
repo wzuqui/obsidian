@@ -10,6 +10,6 @@ Você pode ver todos os vendors no site [https://standards-oui.ieee.org/](https:
 Para ver no Windows você pode usar o comando `arp -a` ou `arp -g` no Linux.
 Se quiser ver com qual é o IP da sua placa de rede basta usar o comando `ipconfig /all` no Windows ou `ifconfig` no Linux.
 
-![arp -a](image1.png)
+![arp -a](./img/image1.png)
 
-![Alt text](image2.png)
+![Alt text](./img/image2.png)

@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "58d2dc781d4f40fa",
+    "id": "b2ddd6e3942bb5c7",
     "type": "split",
     "children": [
       {
-        "id": "ee107677af52719b",
+        "id": "bab4fa46f802d96b",
         "type": "tabs",
         "children": [
           {
-            "id": "b4c4e6a2331c6f83",
+            "id": "1470a48a84a06e04",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "16cf42a200c0412d",
+    "id": "2247450070865c9e",
     "type": "split",
     "children": [
       {
-        "id": "a3d2b7bbe2fa7460",
+        "id": "ef3b0bf430dd1ebd",
         "type": "tabs",
         "children": [
           {
-            "id": "1f19d378693a391e",
+            "id": "8b2421b0d29090e5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "18da4c547df3456e",
+            "id": "cfbb62b6c26775c4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "c9b666dba07aa4f2",
+            "id": "f2df273bb893ed58",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "af3fbacb084d12a2",
+    "id": "a59fdb0a5c419e85",
     "type": "split",
     "children": [
       {
-        "id": "11b4d85b8f4dd9bc",
+        "id": "556c6531162c3a9b",
         "type": "tabs",
         "children": [
           {
-            "id": "d7ec4f607bbd8f42",
+            "id": "2c798d0094a06bb4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "8bbb5485909bc292",
+            "id": "bdab885b8439018a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "271bd5769cc8ea8a",
+            "id": "2ee7384c7ae2ab40",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "f413b514b5a37339",
+            "id": "882d7e34820c6ca2",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs.md"
+              }
             }
           }
         ]
@@ -138,25 +146,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4c4e6a2331c6f83",
-  "lastOpenFiles": [
-    "IP/tcp-udp.md",
-    "IP/broadcast.md",
-    "IP/subnet.md",
-    "IP/marcada-de-rede.md",
-    "IP/classes-de-ip.md",
-    "IP/IP.md",
-    "IP/README.md",
-    "IP/image2.png",
-    "IP/image1.png",
-    "IP/images",
-    "IP/tabela-arp-image2.png",
-    "IP/image.png",
-    "IP/tabela-arp-image1.png",
-    "IP/tabela-arp.md",
-    "IP",
-    "Nova pasta",
-    "README.md",
-    "IP.md"
-  ]
+  "active": "8b2421b0d29090e5",
+  "lastOpenFiles": []
 }
