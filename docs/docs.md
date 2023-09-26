@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# BackEnd
+# Back-end
 
 Diferença entre o ambiente de desenvolvimento e produção.
 
