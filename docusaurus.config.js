@@ -8,9 +8,11 @@ const config = {
   tagline: 'Willian luis Zuqui - Desenvolvedor BackEnd',
   favicon: 'img/favicon.ico',
   url: 'https://wzuqui.github.io',
-  baseUrl: '/',
+  baseUrl: '/obsidian/',
+  projectName: 'wzuqui.github.io',
   organizationName: 'wzuqui',
-  projectName: 'willianluiszuqui',
+  trailingSlash: false,
+  deploymentBranch: 'gh-pages',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   i18n: {
