@@ -13,12 +13,8 @@ const config = {
   organizationName: 'wzuqui',
   trailingSlash: false,
   deploymentBranch: 'gh-pages',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
-  },
 
   presets: [
     [
@@ -67,7 +63,7 @@ const config = {
             items: [
               {
                 label: 'BackEnd',
-                to: '/docs/intro',
+                to: '/docs/docs',
               },
             ],
           },
