@@ -6,7 +6,7 @@
 
 ## Semana 2
 
-- [IP](IP.md)
+- [IP](./IP/IP.md)
 - [DNS](DNS.md)
 
 ## Semana 3
