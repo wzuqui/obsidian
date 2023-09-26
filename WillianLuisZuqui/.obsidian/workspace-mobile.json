@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Containers Docker ou VMs.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Containers Docker ou VMs.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Containers Docker ou VMs.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Containers Docker ou VMs.md"
+            "file": "README.md"
           }
         }
       }
@@ -142,9 +142,11 @@
   },
   "active": "5f6bcc676924148e",
   "lastOpenFiles": [
-    "Rinha de BackEnd.md",
+    "Nova pasta",
+    "IP.md",
+    "README.md",
     "Containers Docker ou VMs.md",
-    "DNS.md",
-    "IP.md"
+    "Rinha de BackEnd.md",
+    "DNS.md"
   ]
 }

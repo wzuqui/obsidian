@@ -11,7 +11,7 @@
             "id": "b4c4e6a2331c6f83",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -139,5 +139,9 @@
     }
   },
   "active": "b4c4e6a2331c6f83",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Nova pasta",
+    "README.md",
+    "IP.md"
+  ]
 }

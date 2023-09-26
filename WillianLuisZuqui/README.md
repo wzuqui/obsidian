@@ -2,12 +2,12 @@
 
 - Mostrar vídeo do Akita
 - Nesse vídeo vamos listar todas tecnologias mencionados
-- Equalizar a equipe 
+- Equalizar a equipe
 
 ## Semana 2
 
-- [[IP]]
-- [[DNS]]
+- [IP](IP.md)
+- [DNS](DNS.md)
 
 ## Semana 3
 
