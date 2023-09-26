@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Docs
 
-## Introdução a Back-end 2
+## Introdução a Back-end
 
 Diferença entre o ambiente de desenvolvimento e produção.
 
