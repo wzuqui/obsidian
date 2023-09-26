@@ -1,3 +1,18 @@
 {
-  "conventionalCommits.scopes": ["backend"]
+  "conventionalCommits.scopes": ["backend"],
+  "workbench.colorCustomizations": {
+    "breadcrumb.background": "#242729",
+    "editor.background": "#242729",
+    "editorGroupHeader.tabsBackground": "#242729",
+    "panel.background": "#242729",
+    "sideBar.background": "#242729",
+    "sideBarSectionHeader.background": "#242729",
+    "sideBarSectionHeader.border": "#242729",
+    "statusBar.noFolderBackground": "#242729",
+    "tab.activeBackground": "#242729",
+    "tab.border": "#242729",
+    "tab.inactiveBackground": "#242729",
+    "terminal.background": "#242729",
+    "terminal.border": "#242729"
+  }
 }
