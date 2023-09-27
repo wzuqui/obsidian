@@ -1,4 +1,4 @@
-# DNS (Domain Name System)
+# 📝 DNS (Domain Name System)
 
 É um sistema de nomenclatura hierárquico e `distribuído` para computadores, serviços ou outros recursos na Internet ou outras redes `IP`. Ele associa várias informações a `nomes de domínio` atribuídos a cada uma das entidades associadas.
 Mais especificamente, ele traduz `nomes de domínio` para endereços `IP` necessários para localizar e identificar serviços de computadores e dispositivos de rede.
