@@ -2,9 +2,9 @@
 sidebar_position: 2
 ---
 
-# Classes de IP
+# 🙋‍♂️ Classes de IP
 
-Todas as classes de IP e reservas econtra no site da IANA no [https://www.iana.org/assignments/iana-ipv4-special-registry/iana-ipv4-special-registry.xhtml](https://www.iana.org/assignments/iana-ipv4-special-registry/iana-ipv4-special-registry.xhtml).
+Todas as classes de IP e reservas encontra-se no site da IANA no [https://www.iana.org/assignments/iana-ipv4-special-registry/iana-ipv4-special-registry.xhtml](https://www.iana.org/assignments/iana-ipv4-special-registry/iana-ipv4-special-registry.xhtml).
 
 - IPv4
 

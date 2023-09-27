@@ -3,6 +3,7 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import clsx from 'clsx';
 import React from 'react';
+
 import styles from './index.module.css';
 
 function HomepageHeader() {
@@ -26,7 +27,7 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Bem vindo ao site do ${siteConfig.title}`}
+      title={`Bem vindo ao blog do ${siteConfig.title}`}
       description="<head />"
     >
       <HomepageHeader />
