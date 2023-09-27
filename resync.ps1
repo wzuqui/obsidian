@@ -1,9 +1,14 @@
 $prompt = Read-Host -Prompt "Deseja puxar(p) ou enviar(e)?";
-$iCloud = "$($env:USERPROFILE)\iCloudDrive\iCloud~md~obsidian\docs";
+
+Set-Location -Path ".\docs";
+
+
+if ($prompt -eq "e") {
+  Copy-Item -Force -Recurse ".\" "$($env:USERPROFILE)\iCloudDrive\iCloud~md~obsidian\";
+}
 
 if ($prompt -eq "p") {
-  Copy-Item -Force -Recurse "$iCloud" ".";
+  Copy-Item -Force -Recurse "$($env:USERPROFILE)\iCloudDrive\iCloud~md~obsidian\docs" "..\";
 }
-if ($prompt -eq "e") {
-  Copy-Item -Force -Recurse ".\docs" "$iCloud";
-}
+
+Set-Location -Path "..";
