@@ -1,5 +1,9 @@
-taskkill /f /IM iCloudServices.exe
-taskkill /f /IM iCloudDrive.exe
-taskkill /f /IM iCloudCKKS.exe
+$prompt = Read-Host -Prompt "Deseja puxar(p) ou enviar(e)?";
+$iCloud = "$($env:USERPROFILE)\iCloudDrive\iCloud~md~obsidian\docs";
 
-& "C:\Program Files (x86)\Common Files\Apple\Internet Services\iCloud.exe"
+if ($prompt -eq "p") {
+  Copy-Item -Force -Recurse "$iCloud" ".";
+}
+if ($prompt -eq "e") {
+  Copy-Item -Force -Recurse ".\docs" "$iCloud";
+}
