@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Tabela ARP
+# 📅 Tabela ARP
 
 É uma tabela que contém o endereço MAC de todos os dispositivos da rede. O endereço MAC é um endereço físico, único e permanente. O endereço MAC é gravado na memória ROM da placa de rede.
 Estabelecido pela IEEE (Institute of Electrical and Electronics Engineers) e é composto por 48 bits (6 bytes) representados por 12 dígitos hexadecimais.

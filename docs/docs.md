@@ -4,21 +4,21 @@ sidebar_position: 1
 
 # Docs
 
-## Introdução a Back-end
+### Bem-vindo 👋
 
-Diferença entre o ambiente de desenvolvimento e produção.
+Estou na área de tecnologia desde 2005, com meus 12 anos de idade já gostava de “fuçar” e aprender lendo livros e com artigos ou cursos. Atualmente estou trabalhando com desenvolvimento de softwares web e serviços de plano de fundo com ênfase em Angular (Frontend) e C# .Net Framework / .NetCore (backend e background works).
 
-- Mostrar vídeo do Akita
-- Nesse vídeo vamos listar todas tecnologias mencionados
-- Equalizar a equipe
+Como desde pequeno gosto de programar ou trabalhar com tecnologia minha expertise é bem útil sejam elas em rede, infra, servidores, desktop ou linguagens de programação.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KyqFXVVgvIs?si=7ILjV-ZXgodQYuX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Aqui algo sobre mim:
 
-## Capítulo 1
+- 🔭 Atualmente trabalho na [Ravex](http://ravex.com.br/) como desenvolvedor Angular e .Net.
+- 💬 Pergunte-me sobre: desenvolvimento :)
 
-- [IP](./capitulo-1/ip/ip.md)
-- [DNS](./capitulo-1/dns/dns.md)
+#### Siga-me nas minhas redes sociais:
 
-## Capítulo 1
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willian-zuqui-470830192/)](https://www.linkedin.com/in/willian-zuqui-470830192/)
 
-- [Containers](./capitulo-2/containers/containers.md)
+## Meu blog pessoal
+
+[https://wzuqui.github.io/obsidian/](https://wzuqui.github.io/obsidian/)

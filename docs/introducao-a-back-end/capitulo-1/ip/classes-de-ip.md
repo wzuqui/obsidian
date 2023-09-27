@@ -2,11 +2,11 @@
 sidebar_position: 2
 ---
 
-# Classes de IP
+# 🙋‍♂️ Classes de IP
 
-Todas as classes de IP e reservas econtra no site da IANA no [https://www.iana.org/assignments/iana-ipv4-special-registry/iana-ipv4-special-registry.xhtml](https://www.iana.org/assignments/iana-ipv4-special-registry/iana-ipv4-special-registry.xhtml).
+Todas as classes de IP e reservas encontra-se no site da IANA no [https://www.iana.org/assignments/iana-ipv4-special-registry/iana-ipv4-special-registry.xhtml](https://www.iana.org/assignments/iana-ipv4-special-registry/iana-ipv4-special-registry.xhtml).
 
-- IPv4
+## IPv4
 
 | Classe       | Intervalo de endereços      |
 | ------------ | --------------------------- |
@@ -22,7 +22,7 @@ Endereços IP privados são endereços IP atribuídos a dispositivos em uma rede
 
 Existe uma [RFC (RFC 1918)](https://www.rfc-editor.org/rfc/rfc1918) que define os endereços IP privados.
 
-| IP          | Classe         |
+| De          | Até            |
 | ----------- | -------------- |
 | 10.0.0.0    | 10.255.255.255 |
 | 172.16.0.0  | 172.31.255.255 |
@@ -34,7 +34,7 @@ Endereços IP públicos são endereços IP que são usados ​​para acessar a 
 
 Sendo eles:
 
-| IP           | Classe          |
+| De           | Até             |
 | ------------ | --------------- |
 | 1.0.0.0      | 9.255.255.255   |
 | 11.0.0.0     | 126.255.255.255 |
@@ -49,6 +49,21 @@ Sendo eles:
 ## IP local
 
 Endereços IP locais são endereços IP que são usados ​​para acessar a Internet. Os endereços IP locais são atribuídos pela IANA e são registrados em um banco de dados público conhecido como Registro de Internet Regional (RIR).
+Também são conhecidos como loopback ou localhost
+
+| De        | Até             |
+| --------- | --------------- |
+| 127.0.0.0 | 127.255.255.255 |
+
+## IP link-local
+
+Endereços IP link-local são aqueles que o `host` pode automaticamente configurar uma interface com um endereço IPv4. Esse é especialmente valioso em ambientes onde nenhuma outra configuração mecanismo está disponível. [RFC3927](https://www.rfc-editor.org/rfc/rfc3927.html)
+
+> São geralmente atribuídos automaticamente pelo sistema operacional, quando você não tem um servidor DHCP disponível ou mesmo em um `crossover`.
+
+| De          | Até             |
+| ----------- | --------------- |
+| 169.254.0.0 | 169.254.255.255 |
 
 ## Referências
 
