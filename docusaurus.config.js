@@ -49,7 +49,7 @@ const config = {
           { to: '/docs/docs', label: 'Docs', position: 'left' },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/wzuqui',
+            href: 'https://github.com/wzuqui/obsidian',
             label: 'GitHub',
             position: 'right',
           },
