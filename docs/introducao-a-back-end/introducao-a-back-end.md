@@ -6,4 +6,13 @@ Diferença entre o ambiente de desenvolvimento e produção.
 - Nesse vídeo vamos listar todas tecnologias mencionados
 - Equalizar a equipe
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KyqFXVVgvIs?si=7ILjV-ZXgodQYuX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen
+  frameborder="0"
+  height="315"
+  src="https://www.youtube.com/embed/KyqFXVVgvIs?si=7ILjV-ZXgodQYuX8"
+  title="YouTube video player" 
+  width="560"
+  >
+</iframe>

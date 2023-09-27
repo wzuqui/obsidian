@@ -1,5 +1,14 @@
 {
   "conventionalCommits.scopes": ["backend"],
   "cSpell.language": "en,pt,pt_BR",
-  "cSpell.words": ["clsx", "cmfcmf", "dracula", "Willian", "wzuqui", "Zuqui"]
+  "cSpell.words": [
+    "clsx",
+    "cmfcmf",
+    "dracula",
+    "ipcalc",
+    "Willian",
+    "wzuqui",
+    "Zuqui"
+  ],
+  "editor.wordWrap": "on"
 }
