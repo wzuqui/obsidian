@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwillianluiszuqui=self.webpackChunkwillianluiszuqui||[]).push([[6866],{9407:l=>{l.exports=JSON.parse('{"permalink":"/obsidian/blog/tags/banco-de-dados","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://wzuqui.github.io/obsidian/blog</id>
+    <title>Willian Luis Zuqui Blog</title>
+    <updated>2023-09-29T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://wzuqui.github.io/obsidian/blog"/>
+    <subtitle>Willian Luis Zuqui Blog</subtitle>
+    <icon>https://wzuqui.github.io/obsidian/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Diferença entre processamento em lote ou granular]]></title>
+        <id>https://wzuqui.github.io/obsidian/blog/diferenca-entre-processamento-em-lote-ou-granular</id>
+        <link href="https://wzuqui.github.io/obsidian/blog/diferenca-entre-processamento-em-lote-ou-granular"/>
+        <updated>2023-09-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Algumas diferenças encontradas com o time de desenvolvimento entre processamento em lote ou granular]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="motivação">Motivação<a href="#motivação" class="hash-link" aria-label="Link direto para Motivação" title="Link direto para Motivação">​</a></h2><p>A motivação deste post é compartilhar algumas diferenças encontradas com o time de desenvolvimento entre processamento em lote ou granular. Com o objetivo de ajudar a entender qual a melhor forma de processar os dados.</p><p>Com o passar do tempo desenvolvendo aplicações <code>workers</code> que são aplicativos que processam dados em segundo plano, percebi que existem duas formas de processar os dados, em lote ou granular, com eles suas vantagens e desvantagens que serão abordadas neste post.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="processamento-em-lote">Processamento em lote<a href="#processamento-em-lote" class="hash-link" aria-label="Link direto para Processamento em lote" title="Link direto para Processamento em lote">​</a></h2><p>O processamento em lote é quando você processa um conjunto de dados de uma vez só, por exemplo, você tem uma lista de 1000 usuários e precisa enviar um e-mail para cada um deles, você pode processar todos de uma vez só, ou seja, em lote.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="processamento-granular">Processamento granular<a href="#processamento-granular" class="hash-link" aria-label="Link direto para Processamento granular" title="Link direto para Processamento granular">​</a></h2><p>O processamento granular é quando você processa um conjunto de dados de forma granular, ou seja, um por um, por exemplo, você tem uma lista de 1000 usuários e precisa enviar um e-mail para cada um deles, você pode processar um por um, ou seja, de forma granular.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="tabela-comparativa">Tabela comparativa<a href="#tabela-comparativa" class="hash-link" aria-label="Link direto para Tabela comparativa" title="Link direto para Tabela comparativa">​</a></h2><table><thead><tr><th>Processamento granular</th><th>Processamento em lote</th><th align="center">Vantagem</th></tr></thead><tbody><tr><td>Muito <code>selects</code> executados no banco de dados</td><td>Menos selects executados no banco</td><td align="center">Lote</td></tr><tr><td><code>SQL</code> com menos parâmetros</td><td><code>SQL</code> com acima de 2.100 parâmetros causam erros de execução</td><td align="center">Granular</td></tr><tr><td>Caso aconteça um erro, você pode identificar em qual registro parou sua aplicação</td><td>Perde a <code>transactions</code> inteira do lote</td><td align="center">Granular</td></tr><tr><td>Salva o <code>cursor</code>/<code>posição</code> na qual o registro está seja ele com erro ou sucesso</td><td>O <code>cursor</code> não consegue identificar o real problema, e salva o cursor somente no fim</td><td align="center">Granular</td></tr><tr><td>Conseguimos identificar o tempo de processamento de cada registro</td><td>Conseguimos apenas a média de tempo para cada registro</td><td align="center">Granular</td></tr><tr><td>Menos <code>concorrência</code> e <code>change track</code> no <code>efcore</code></td><td>Mais <code>concorrência</code> gerando mais <code>lock</code> no banco</td><td align="center">Granular</td></tr></tbody></table><blockquote><p>Placar final: Granular 6 x 1 com vantagem para o processamento granular</p></blockquote><h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusão">Conclusão<a href="#conclusão" class="hash-link" aria-label="Link direto para Conclusão" title="Link direto para Conclusão">​</a></h2><p>Conforme for passando o tempo, e novas experiências forem surgindo, vou atualizando este post com novas informações. Mas por enquanto, a melhor forma de processar os dados é de forma granular.</p>]]></content>
+        <author>
+            <name>Willian Luis Zuqui</name>
+            <uri>https://github.com/zuqui</uri>
+        </author>
+        <category label="banco-de-dados" term="banco-de-dados"/>
+        <category label="change-track" term="change-track"/>
+        <category label="concorrencia" term="concorrencia"/>
+        <category label="cursor" term="cursor"/>
+        <category label="diferenca-entre-processamento-em-lote-ou-granular" term="diferenca-entre-processamento-em-lote-ou-granular"/>
+        <category label="efcore" term="efcore"/>
+        <category label="granular" term="granular"/>
+        <category label="lock lote" term="lock lote"/>
+        <category label="select" term="select"/>
+        <category label="selects" term="selects"/>
+        <category label="sql" term="sql"/>
+        <category label="transactions" term="transactions"/>
+        <category label="worker" term="worker"/>
+        <category label="workers" term="workers"/>
+    </entry>
+</feed>

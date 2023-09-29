@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwillianluiszuqui=self.webpackChunkwillianluiszuqui||[]).push([[7529],{4172:l=>{l.exports=JSON.parse('{"label":"efcore","permalink":"/obsidian/blog/tags/efcore","allTagsPath":"/obsidian/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwillianluiszuqui=self.webpackChunkwillianluiszuqui||[]).push([[9755],{8827:a=>{a.exports=JSON.parse('{"label":"banco-de-dados","permalink":"/obsidian/blog/tags/banco-de-dados","allTagsPath":"/obsidian/blog/tags","count":1}')}}]);

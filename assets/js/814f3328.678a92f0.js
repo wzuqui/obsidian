@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwillianluiszuqui=self.webpackChunkwillianluiszuqui||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Diferen\xe7a entre processamento em lote ou granular","permalink":"/obsidian/blog/diferenca-entre-processamento-em-lote-ou-granular"}]}')}}]);
