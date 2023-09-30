@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "ca018b27c59180d8",
+    "id": "6b2f5ff5aa419365",
     "type": "split",
     "children": [
       {
-        "id": "4b83d395a844b12a",
+        "id": "531f411b30a0fa48",
         "type": "tabs",
         "children": [
           {
-            "id": "7d8c76f71f17602f",
+            "id": "051ede1c29c82bd5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "introducao-a-back-end/capitulo-1/ip/broadcast.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,11 +21,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4f080e2e2b84a0c4",
+    "id": "48086d85027d11fe",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "6e4c8c275dcbbf5e",
+        "id": "28b991075342a495",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +35,7 @@
         }
       },
       {
-        "id": "1cdd9d5e1f1a5df1",
+        "id": "5f80968482d6f339",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -54,7 +50,7 @@
         }
       },
       {
-        "id": "18baeaf20893291d",
+        "id": "08d9ddfa10116184",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,7 +61,7 @@
         }
       },
       {
-        "id": "a161d3b10b5c56c3",
+        "id": "b4e86d1e1995dc36",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -76,16 +72,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "d12df7b38839c5da",
+    "id": "2f16e8db2f62196e",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "1bf7fa39592aabd3",
+        "id": "3d54e79e216c6df2",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "introducao-a-back-end/capitulo-1/ip/broadcast.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,25 +92,22 @@
         }
       },
       {
-        "id": "659c6c2eed382f22",
+        "id": "b5a12d99dfd35da8",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "introducao-a-back-end/capitulo-1/ip/broadcast.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "c55ab45fd3b84a9c",
+        "id": "f2522beda5eb1691",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "introducao-a-back-end/capitulo-1/ip/broadcast.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -131,26 +123,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d8c76f71f17602f",
-  "lastOpenFiles": [
-    "introducao-a-back-end/capitulo-1/ip/ip.md",
-    "introducao-a-back-end/capitulo-1/ip/subnet.md",
-    "introducao-a-back-end/capitulo-1/ip/tabela-arp.md",
-    "introducao-a-back-end/capitulo-1/dns/dns.md",
-    "introducao-a-back-end/capitulo-1/dns/img/image-1.png",
-    "introducao-a-back-end/capitulo-1/dns/img/image-2.png",
-    "introducao-a-back-end/capitulo-1/ip/mascara-de-rede.md",
-    "docs.md",
-    "introducao-a-back-end/capitulo-1/ip/classes-de-ip.md",
-    "introducao-a-back-end/introducao-a-back-end.md",
-    "introducao-a-back-end/capitulo-1/ip/tcp-udp.md",
-    "introducao-a-back-end/capitulo-1/ip/dmz.md",
-    "introducao-a-back-end/capitulo-1/ip/img/image2.png",
-    "introducao-a-back-end/capitulo-1/ip/img/image1.png",
-    "introducao-a-back-end/capitulo-1/ip/nat.md",
-    "introducao-a-back-end/capitulo-2/containers/containers.md",
-    "introducao-a-back-end/capitulo-1/ip/broadcast.md",
-    "introducao-a-back-end/capitulo-1/_category_.json",
-    "introducao-a-back-end/capitulo-2/_category_.json"
-  ]
+  "active": "051ede1c29c82bd5",
+  "lastOpenFiles": []
 }
