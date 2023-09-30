@@ -72,7 +72,7 @@ Ainda no mesmo computador vou abrir o programa `wireshark` para ver os pacotes q
 Em outro computador vou executar o programa `packagesender` e vou enviar um pacote UDP para o o IP `192.168.1.255` sobre a porta `UDP 12345`.
 
 Agora veja o resultado:
-![Alt text](./img/image3.png)
+![Alt text](./image1.png)
 
 #### Alterando o programa para forçar o bind no IP de broadcast
 
@@ -86,11 +86,11 @@ Executar o programa e olhe só o que aconteceu:
 
 Continua recebendo pacotes
 
-![Alt text](./img/image4.png)
+![Alt text](./image2.png)
 
 Mas ainda está ouvindo o IP `0.0.0.0:12345`:
 
-![Alt text](./img/image5.png)
+![Alt text](./image3.png)
 
 ## Referências
 
