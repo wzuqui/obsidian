@@ -17,6 +17,15 @@ function HomepageHeader() {
           <Link className="button button--secondary button--lg" to="/docs/docs">
             Docs 📚
           </Link>
+          <Link className="button button--secondary button--lg" to="/blog">
+            Blog 📝
+          </Link>
+        </div>
+        <div className={styles.contador}>
+          <img
+            src="https://profile-counter.glitch.me/wzuqui/count.svg"
+            alt="hit counter"
+          />
         </div>
       </div>
     </header>

@@ -1,0 +1,30 @@
+.heroBanner {
+  background-color: #242526;
+  background-image: url(./banner.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  overflow: hidden;
+  padding: 4rem 0;
+  position: relative;
+  text-align: center;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.contador {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+
+  > img {
+    height: 30px;
+  }
+}
