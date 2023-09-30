@@ -15,3 +15,16 @@ Existe dois tipos de IP: IPv4 e IPv6, hoje vamos abordar somente o IPv4. Depois 
 7. [TCP/UDP](./7-tcp-udp/tcp-udp.md)
 8. [NAT](./8-nat/nat.md)
 9. [DMZ](./9-dmz/dmz.md)
+
+## Breve história
+
+<iframe
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen
+  frameborder="0"
+  height="315"
+  src="https://www.youtube.com/embed/Iqcp3k8DgGw?si=fRxGz4LI3g7wqba9"
+  title="YouTube video player"
+  width="560"
+  >
+</iframe>
