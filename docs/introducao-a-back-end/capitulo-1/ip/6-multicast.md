@@ -44,6 +44,8 @@ Algo interessante no multicast é que ele é mais utilizado em IPV6 já que o IP
 
 O código está implementado neste mesmo repositório no [github](https://github.com/wzuqui/obsidian) (na pasta samples/introducao-a-back-end/capitulo-1/ip/multicast) mas vou destacar algumas partes aqui.
 
+Caso queria baixar o cliente/servidor basta baixar o executável neste [link](https://github.com/wzuqui/obsidian/tree/main/samples/introducao-a-back-end/capitulo-1/ip/multicast/publish/multicast.7z). O servidor é o padrão e basta executar o arquivo, já o cliente tem que passar como parâmetro em um terminal a flag `emissor=true`.
+
 ![código que aguarda o ReadLine, perguntando em qual grupo multicast você quer participar](./img/image6.png)
 
 > Código aguarda o `Console.ReadLine`, perguntando em qual grupo multicast você quer participar e após isso observe o código `IPAddress.Parse` que converte o que o usuário escreveu para um objeto do tipo `IPAddress` concatenando o IP `239.0.0.` isso sinaliza que o IP é um IP multicast no range de `escopo administrativo` utilizado para uso privado dentro de uma organização.
