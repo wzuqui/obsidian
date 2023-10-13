@@ -26,6 +26,12 @@ internal class UdpServer : BackgroundService
             return;
 
         var xMulticastAddress = IPAddress.Parse("239.0.0." + xGrupo);
+
+        var xEhEmissor = _configuration.GetValue<bool>("emissor");
+        if (xEhEmissor)
+            await ConfigurarEmissor(xMulticastAddress, pCancellationToken);
+        else
+            await ConfigurarReceptor(xMulticastAddress, pCancellationToken);
     }
 
     private async Task ConfigurarReceptor(IPAddress pMulticastAddress
