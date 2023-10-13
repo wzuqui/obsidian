@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkobsidian=self.webpackChunkobsidian||[]).push([[9371],{7011:s=>{s.exports=JSON.parse('{"label":"sql","permalink":"/obsidian/blog/tags/sql","allTagsPath":"/obsidian/blog/tags","count":1}')}}]);

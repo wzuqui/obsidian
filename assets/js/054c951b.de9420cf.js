@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwillianluiszuqui=self.webpackChunkwillianluiszuqui||[]).push([[4779],{3416:l=>{l.exports=JSON.parse('{"permalink":"/obsidian/blog/tags/efcore","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

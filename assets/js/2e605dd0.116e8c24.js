@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwillianluiszuqui=self.webpackChunkwillianluiszuqui||[]).push([[3232],{3084:l=>{l.exports=JSON.parse('{"permalink":"/obsidian/blog/tags/concorrencia","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
