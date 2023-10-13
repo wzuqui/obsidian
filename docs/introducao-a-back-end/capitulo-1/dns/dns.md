@@ -36,11 +36,26 @@ Cada domínio é formado por nomes separados por pontos. O nome mais à direita 
 
 O servidor com autoridade de um domínio possui os registros originais que associam aquele domínio a seu endereço de IP. Toda vez que um domínio adquire um novo endereço, essas informações devem ser adicionadas a pelo menos **dois servidores** autoritativos. Um deles será o servidor autoritativo `principal` e o outro, o `secundário`. Isso é feito para `minimizar o risco` de, em caso de erros em um servidor DNS, perder todas as informações originais do endereço daquele domínio.
 
-## Referências
+### Adicional
 
-- [https://en.wikipedia.org/wiki/Domain_Name_System](https://en.wikipedia.org/wiki/Domain_Name_System)
+- dig
+- nslookup
+- hosts tanto Windows como Linux
+- bind
+- dnssec
+- tipos:
+  - CNAME (alias de nome pra nome)
+  - A (alias de nome pra ip)
+  - SOA E NS (servidores de zona e autoridade como goodaddy e registro.br)
+  - MX e MT (servidores de exchange de e-mail)
+  - TXT (certificado e e-mails como SMTP do Google)
+  - DNS reverso
 
-<!-- ### Tópicos
+### E porque isso é importante pra programador
+
+Para criação de um site ou um sistema web devemos saber como comprar e configurar o DNS corretamente. Tanto em loadbalancers como o servidor web, ninguém mais utiliza sistema se certificado e pra isso uma CÁ deve confiar em sua empresa, por isso a compra no seu nome (Id técnico, id proprietário etc… mostrar whois)
+
+### Tópicos
 
 - Dig
 - Localhost
@@ -56,4 +71,8 @@ Dig (Domain Information Groper) é uma linha de comando que **executa a pesquis
 
 ```powershell
 choco install -y bind-toolsonly
-``` -->
+```
+
+## Referências
+
+- [https://en.wikipedia.org/wiki/Domain_Name_System](https://en.wikipedia.org/wiki/Domain_Name_System)

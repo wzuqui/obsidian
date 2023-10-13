@@ -131,11 +131,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "051ede1c29c82bd5",
+  "active": "28b991075342a495",
   "lastOpenFiles": [
-    "introducao-a-back-end/capitulo-1/ip/7-tcp-udp.md",
-    "introducao-a-back-end/capitulo-1/ip/6-multicast.md",
     "introducao-a-back-end/capitulo-1/ip/5-broadcast.md",
+    "introducao-a-back-end/capitulo-1/ip/6-multicast.md",
+    "introducao-a-back-end/capitulo-1/dns/dns.md",
+    "introducao-a-back-end/capitulo-1/ip/7-tcp-udp.md",
     "introducao-a-back-end/capitulo-1/ip/4-subnet.md",
     "introducao-a-back-end/capitulo-1/ip/ip.md",
     "introducao-a-back-end/capitulo-2/_category_.json",
