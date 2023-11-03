@@ -1,5 +1,7 @@
 {
-  "conventionalCommits.scopes": ["backend"],
+  "conventionalCommits.scopes": [
+    "backend"
+  ],
   "cSpell.language": "en,pt,pt_BR",
   "cSpell.words": [
     "autoplay",
@@ -14,7 +16,9 @@
     "introducao",
     "ipcalc",
     "Multicasting",
+    "oneline",
     "packagesender",
+    "reflog",
     "typecheck",
     "Willian",
     "wireshark",
