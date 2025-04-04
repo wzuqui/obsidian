@@ -8,7 +8,7 @@ const config = {
   tagline: 'Angular | .NET Developer',
   favicon: 'img/favicon.ico',
   url: 'https://wzuqui.github.io',
-  baseUrl: '/obsidian/',
+  baseUrl: '/',
   projectName: 'wzuqui.github.io',
   organizationName: 'wzuqui',
   trailingSlash: false,
