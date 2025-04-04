@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkobsidian=self.webpackChunkobsidian||[]).push([[6752],{6285:l=>{l.exports=JSON.parse('{"label":"lock lote","permalink":"/blog/tags/lock-lote","allTagsPath":"/blog/tags","count":1}')}}]);

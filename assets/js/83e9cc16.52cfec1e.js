@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkobsidian=self.webpackChunkobsidian||[]).push([[9037],{2065:e=>{e.exports=JSON.parse('{"label":"diferenca-entre-processamento-em-lote-ou-granular","permalink":"/blog/tags/diferenca-entre-processamento-em-lote-ou-granular","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkobsidian=self.webpackChunkobsidian||[]).push([[3367],{2525:s=>{s.exports=JSON.parse('{"permalink":"/obsidian/blog/tags/workers","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

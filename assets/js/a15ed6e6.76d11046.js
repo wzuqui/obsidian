@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkobsidian=self.webpackChunkobsidian||[]).push([[3519],{1635:a=>{a.exports=JSON.parse('{"label":"banco-de-dados","permalink":"/blog/tags/banco-de-dados","allTagsPath":"/blog/tags","count":1}')}}]);

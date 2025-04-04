@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkobsidian=self.webpackChunkobsidian||[]).push([[5255],{5419:a=>{a.exports=JSON.parse('{"label":"concorrencia","permalink":"/blog/tags/concorrencia","allTagsPath":"/blog/tags","count":1}')}}]);

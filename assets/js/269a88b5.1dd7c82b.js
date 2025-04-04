@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkobsidian=self.webpackChunkobsidian||[]).push([[207],{4729:e=>{e.exports=JSON.parse('{"label":"efcore","permalink":"/blog/tags/efcore","allTagsPath":"/blog/tags","count":1}')}}]);
