@@ -7,7 +7,7 @@ const config = {
   title: 'Willian Luis Zuqui',
   tagline: 'Angular | .NET Developer',
   favicon: 'img/favicon.ico',
-  url: 'https://wzuqui.github.io',
+  url: 'https://willianluiszuqui.com.br',
   baseUrl: '/',
   projectName: 'wzuqui.github.io',
   organizationName: 'wzuqui',
